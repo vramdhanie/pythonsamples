@@ -10,4 +10,4 @@ def tables(n, m):
             print ("%d x %d = %d\n" % (i, j, i*j))
         print "\n"
 
-tables(12, 12);
+tables(14, 14);
